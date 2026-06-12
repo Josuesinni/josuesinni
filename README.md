@@ -30,20 +30,16 @@ Ultimos proyectos
 <table>
   <tr>
     <td rowspan="2">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuesinni&layout=compact&langs_count=8&locale=es"/>
+      <img  height="180em" src="https://github-readme-stats-nine-delta-kbyr0njjgc.vercel.app/api/top-langs/?username=josuesinni&layout=compact&langs_count=8&locale=es&cunt_private=true"/>
     </td>
     <td>
-<img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=josuesinni&locale=es">
+     <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=josuesinni&locale=es">
     </td>
-  </tr>
-  <tr>
-    <td>
+   <td>
       <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=josuesinni&show_icons=true&theme=vue&locale=es" alt=josuesinni" />
     </td>
   </tr>
 </table>
-
-</div>
 
 
 
