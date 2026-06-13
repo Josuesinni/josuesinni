@@ -26,22 +26,37 @@ Me gustan los desafios, pues los veo como una oportunidad de aprender y mejorar.
 - 👨🏻‍💻 Aprendiendo Next.js y Docker.
 - 📚 Interesado en el diseño y gestión de aplicaciones web
 
-## 🛠️ Tech Stack
+## 🛠️ Stack de Tecnologías
 
- ### Frontend
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" width="50%">
+
+### Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=light" />
 
- ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,django&theme=light" />
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=light" />
 
- ### Base de Datos
+### Base de Datos
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=light" />
+
+  </td>
+
+  <td valign="top" width="50%">
 
 ### Lenguajes de Programación
 <img src="https://skillicons.dev/icons?i=js,typescript,python,java&theme=light" />
 
-### DevOps & Herramientas
+### Tecnologías y Herramientas
 <img src="https://skillicons.dev/icons?i=git,linux,ubuntu,nginx,vscode&theme=light" />
+
+### Actualmente Aprendiendo
+<img src="https://skillicons.dev/icons?i=nextjs,docker&theme=light" />
+
+  </td>
+  </tr>
+</table>
 
 ## 📌 Proyectos Destacados
 
@@ -55,6 +70,10 @@ Plataforma para la Escuela Iberoamericana de Ciencias de la Salud que digitaliza
 Aplicación web desarrollada con Flask y PostgreSQL para la gestión de inscripciones, becas y seguimiento académico.
 
 ## 📊 Estadisticas de GitHub
+
+
+
+
 
 <!--
 <table>
@@ -83,19 +102,3 @@ Aplicación web desarrollada con Flask y PostgreSQL para la gestión de inscripc
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square">
   </a>
 </p>
-
-<!--
-**Josuesinni/josuesinni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-</body>
