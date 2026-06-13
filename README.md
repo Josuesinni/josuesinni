@@ -28,31 +28,28 @@ Me gustan los desafios, pues los veo como una oportunidad de aprender y mejorar.
 
 ## 🛠️ Stack de Tecnologías
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
     <td valign="top" width="50%">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=light" />
+<img height="40em" src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=light" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=light" />
+<img height="40em" src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=light" />
 
 ### Base de Datos
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=light" />
+<img height="40em" src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=light" />
 
   </td>
 
   <td valign="top" width="50%">
 
 ### Lenguajes de Programación
-<img src="https://skillicons.dev/icons?i=js,typescript,python,java&theme=light" />
+<img height="40em" src="https://skillicons.dev/icons?i=js,typescript,python,java&theme=light" />
 
 ### Tecnologías y Herramientas
-<img src="https://skillicons.dev/icons?i=git,linux,ubuntu,nginx,vscode&theme=light" />
-
-### Actualmente Aprendiendo
-<img src="https://skillicons.dev/icons?i=nextjs,docker&theme=light" />
+<img height="40em" src="https://skillicons.dev/icons?i=git,linux,ubuntu,nginx,vscode&theme=light" />
 
   </td>
   </tr>
