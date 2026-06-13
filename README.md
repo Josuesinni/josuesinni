@@ -12,45 +12,91 @@ Hola, soy <a href="https://github.com/adilrahman"> Zahid Josue </a>
 <ul>
  <li>Me gusta aprender constantemente</li> 
 </ul> 
-🧰 Toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,react,nodejs,git,mysql,postgresql,github,vscode&theme=light)](https://skillicons.dev)
-
-
----
-Ultimos proyectos
-
----
-
-
-
+<div style="display: inline-block;" align="center">
+  <h3>Stack de Tecnologías</h3>
+   <kbd>
+    <kbd>
+    <kbd>Lenguajes de programación</kbd>
+    <br>
+    <br>
 <p align="center">
-<h3> &#x1f4c8; Mis estadísticas de GitHub</h3>
+  <a href="https://skillicons.dev">
+    <img height="40em" src="https://skillicons.dev/icons?i=js,typescript,python,java&theme=light" />
+  </a>
 </p>
+  </kbd>
+   <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css&theme=light)](https://skillicons.dev)
+
+  </kbd>
+   <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,fastapi&theme=light)](https://skillicons.dev)
+
+  </kbd>
+
+  <kbd>
+    <kbd>Librerias/FrameWorks</kbd>
+    <br>
+    <br>
+    
+[![My Skills](https://skillicons.dev/icons?i=react,flask,tailwind,bootstrap&theme=light)](https://skillicons.dev)
+
+  </kbd>
+  <kbd>
+    <kbd>Base de datos</kbd>
+    <br>
+    <br>
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=light)](https://skillicons.dev)
+    
+  </kbd>
+
+  <kbd>
+    <kbd>Entorno de Desarrollo</kbd>
+    <br>
+    <br>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,eclipse&theme=light)](https://skillicons.dev)
+    
+  </kbd>
+  <kbd>
+    <kbd>Herramientas</kbd>
+    <br>
+    <br>
+
+[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
+    
+  </kbd>
+  <br>
+</div>
+
+---
+Últimos proyectos
+- Sistema ERP para Calleros Tapicería
+- Sistema de Titulación para la Escuela de Ciencias de la Salud Iberoamericana
+- Sistema para programa Educación Continua en ITESCA
+---
+
 <table>
   <tr>
-    <td rowspan="2">
-      <img  height="180em" src="https://github-readme-stats-nine-delta-kbyr0njjgc.vercel.app/api/top-langs/?username=josuesinni&layout=compact&langs_count=8&locale=es&cunt_private=true"/>
+    <td align="center" width="55%" style="border: none;">
+      <img height="240em" src="https://github-readme-stats-nine-delta-kbyr0njjgc.vercel.app/api/top-langs/?username=josuesinni&layout=compact&langs_count=8&locale=es&cunt_private=true&hide_border=true¿"/>
     </td>
-    <td>
-     <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=josuesinni&locale=es">
-    </td>
-   <td>
-      <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=josuesinni&show_icons=true&theme=vue&locale=es" alt=josuesinni" />
+    <td align="center">
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=josuesinni&locale=es&hide_border=true" alt=josuesinni"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josuesinni&show_icons=true&theme=vue&locale=es&hide_border=true" alt=josuesinni" />
     </td>
   </tr>
 </table>
-
-
-
-------
-[josuesinni](https://github.com/josuesinni)
-<details>
-<summary>Preview  </summary>
-
-[josuesinni](josuesinni ':include')
-
-</details>
 
 
 <!--
