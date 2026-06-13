@@ -8,7 +8,7 @@ Hola, soy <a href="https://github.com/josuesinni"> Zahid Josue </a>
 </h3>
  
 ## 🚀 Acerca de mí
-Hola! Soy Zahid Josue, un desarrollador jr full-stack apacionado por la creación de soluciones tecnológicas para microempresas.
+Hola! Soy Zahid Josue, un desarrollador jr full-stack apasionado por la creación de soluciones tecnológicas para microempresas.
 Mi parte favorita de la programación es la experimentación (prueba y error) para encontrar ese pequeño detalle que no viste y que estaba provocando graves fallas.
 Mi forma de trabajar es ver tutoriales, leer la documentación y llevar a cabo el método de prueba y error.
 Me gustan los desafios, pues los veo como una oportunidad de aprender y mejorar. 
