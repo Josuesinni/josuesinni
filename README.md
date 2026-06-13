@@ -1,95 +1,66 @@
-<body>
 <h1 align="center">
-Hola, soy <a href="https://github.com/adilrahman"> Zahid Josue </a>
+Hola, soy <a href="https://github.com/josuesinni"> Zahid Josue </a>
  <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px>  </a> <br/>
 </h1>
+ 
+<h3 align="center">
+  Desarrollador Jr Full-Stack | Ingeniero en Sistemas Computacionales
+</h3>
+ 
+## 🚀 Acerca de mí
+Hola! Soy Zahid Josue, un desarrollador jr full-stack apacionado por la creación de soluciones tecnológicas para microempresas.
+Mi parte favorita de la programación es la experimentación (prueba y error) para encontrar ese pequeño detalle que no viste y que estaba provocando graves fallas.
+Mi forma de trabajar es ver tutoriales, leer la documentación y llevar a cabo el método de prueba y error.
+Me gustan los desafios, pues los veo como una oportunidad de aprender y mejorar. 
 
-<p align="center">
-  Programador JR Full-Stack independiente, recien egresado de la carrera de Ingenieria en Sistemas Computacionales.
-</p>
+- 💻 Más de 1 año desarrollando aplicaciones web profesionalmente.
+- ⚛️ Especializado en React, TypeScript y Node.js.
+- ⚙️ Experiencia desarrollando APIs con Express, Flask, FastAPI.
+- 🗂️ Gestión de bases de datos relacionales como MySQL, PostgreSQL y SQLite.
+- ☁️ Experiencia desplegando aplicaciones en Ubuntu Server utilizando Nginx y Apache.
+- 🙋🏻‍♂️ Experiencia en servicio, atención y trato directo con clientes
 
-<h2>Acerca de mi</h2>
-<ul>
- <li>Me gusta aprender constantemente</li> 
-</ul> 
+## 🎯 Actualmente
 
-<div style="display: inline-block;" align="center">
-  <h3>Stack de Tecnologías</h3>
-   <kbd>
-    <kbd>
-    <kbd>Lenguajes de programación</kbd>
-    <br>
-    <br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img height="40em" src="https://skillicons.dev/icons?i=js,typescript,python,java&theme=light" />
-  </a>
-</p>
-  </kbd>
-   <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
+- 💼 Trabajando en proyectos Full-Stack.
+- 👨🏻‍💻 Aprendiendo Next.js y Docker.
+- 📚 Interesado en el diseño y gestión de aplicaciones web
 
-[![My Skills](https://skillicons.dev/icons?i=html,css&theme=light)](https://skillicons.dev)
+## 🛠️ Tech Stack
 
-  </kbd>
-   <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
-    
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,fastapi&theme=light)](https://skillicons.dev)
+ ### Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=light" />
 
-  </kbd>
+ ### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,django&theme=light" />
 
-  <kbd>
-    <kbd>Librerias/FrameWorks</kbd>
-    <br>
-    <br>
-    
-[![My Skills](https://skillicons.dev/icons?i=react,flask,tailwind,bootstrap&theme=light)](https://skillicons.dev)
+ ### Base de Datos
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=light" />
 
-  </kbd>
-  <kbd>
-    <kbd>Base de datos</kbd>
-    <br>
-    <br>
+### Lenguajes de Programación
+<img src="https://skillicons.dev/icons?i=js,typescript,python,java&theme=light" />
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=light)](https://skillicons.dev)
-    
-  </kbd>
+### DevOps & Herramientas
+<img src="https://skillicons.dev/icons?i=git,linux,ubuntu,nginx,vscode&theme=light" />
 
-  <kbd>
-    <kbd>Entorno de Desarrollo</kbd>
-    <br>
-    <br>
+## 📌 Proyectos Destacados
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,eclipse&theme=light)](https://skillicons.dev)
-    
-  </kbd>
-  <kbd>
-    <kbd>Herramientas</kbd>
-    <br>
-    <br>
+### 🚗 ERP para Calleros Tapicería
+Sistema ERP desarrollado con React, TypeScript, Node.js y MySQL para la gestión de procesos internos de la empresa (registros, presupuestos, nominas, reportes, entre otros).
 
-[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
-    
-  </kbd>
-  <br>
-</div>
+### 🎓 Sistema de Titulación
+Plataforma para la Escuela Iberoamericana de Ciencias de la Salud que digitaliza y automatiza el proceso de titulación.
 
----
-Últimos proyectos
-- Sistema ERP para Calleros Tapicería
-- Sistema de Titulación para la Escuela de Ciencias de la Salud Iberoamericana
-- Sistema para programa Educación Continua en ITESCA
----
+### 📚 Educación Continua ITESCA
+Aplicación web desarrollada con Flask y PostgreSQL para la gestión de inscripciones, becas y seguimiento académico.
 
+## 📊 Estadisticas de GitHub
+
+<!--
 <table>
   <tr>
     <td align="center" width="55%" style="border: none;">
-      <img height="240em" src="https://github-readme-stats-nine-delta-kbyr0njjgc.vercel.app/api/top-langs/?username=josuesinni&layout=compact&langs_count=8&locale=es&cunt_private=true&hide_border=true¿"/>
+      <img height="240em" src="https://github-readme-stats-nine-delta-kbyr0njjgc.vercel.app/api/top-langs/?username=josuesinni&layout=compact&langs_count=8&locale=es&count_private=true&hide_border=true"/>
     </td>
     <td align="center">
      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=josuesinni&locale=es&hide_border=true" alt=josuesinni"/>
@@ -97,7 +68,21 @@ Hola, soy <a href="https://github.com/adilrahman"> Zahid Josue </a>
     </td>
   </tr>
 </table>
+-->
+<div style="display:inline-block;" align="center">
+<img height="180em" src="https://github-readme-stats-nine-delta-kbyr0njjgc.vercel.app/api/top-langs/?username=josuesinni&layout=compact&langs_count=8&locale=es&count_private=true&hide_border=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josuesinni&show_icons=true&theme=vue&locale=es&hide_border=true" />
+</div>      
 
+## 💬 Contacto
+<p align="center">
+  <a href="mailto:josueanimations@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=flat-square">
+  </a>
+  <a href="https://www.linkedin.com/in/zahid-josue-urias-vizcarra-18a45a371/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square">
+  </a>
+</p>
 
 <!--
 **Josuesinni/josuesinni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
