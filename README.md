@@ -64,31 +64,7 @@ Sistema ERP desarrollado con React, TypeScript, Node.js y MySQL para la gestión
 Plataforma para la Escuela Iberoamericana de Ciencias de la Salud que digitaliza y automatiza el proceso de titulación.
 
 ### 📚 Educación Continua ITESCA
-Aplicación web desarrollada con Flask y PostgreSQL para la gestión de inscripciones, becas y seguimiento académico.
-
-## 📊 Estadisticas de GitHub
-
-
-
-
-
-<!--
-<table>
-  <tr>
-    <td align="center" width="55%" style="border: none;">
-      <img height="240em" src="https://github-readme-stats-nine-delta-kbyr0njjgc.vercel.app/api/top-langs/?username=josuesinni&layout=compact&langs_count=8&locale=es&count_private=true&hide_border=true"/>
-    </td>
-    <td align="center">
-     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=josuesinni&locale=es&hide_border=true" alt=josuesinni"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josuesinni&show_icons=true&theme=vue&locale=es&hide_border=true" alt=josuesinni" />
-    </td>
-  </tr>
-</table>
--->
-<div style="display:inline-block;" align="center">
-<img height="180em" src="https://github-readme-stats-nine-delta-kbyr0njjgc.vercel.app/api/top-langs/?username=josuesinni&layout=compact&langs_count=8&locale=es&count_private=true&hide_border=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josuesinni&show_icons=true&theme=vue&locale=es&hide_border=true" />
-</div>      
+Aplicación web desarrollada con Flask y PostgreSQL para la gestión de inscripciones, becas y seguimiento académico.  
 
 ## 💬 Contacto
 <p align="center">
